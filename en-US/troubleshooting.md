@@ -183,3 +183,7 @@ adb shell "/system/bin/device_config get activity_manager max_phantom_processes"
 
 >[!NOTE]
 > Unlike `adb`, this requires that `developer options` remain enabled.
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andistro.wiki.troubleshooting"  />
+</div>

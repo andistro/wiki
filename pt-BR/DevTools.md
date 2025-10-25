@@ -276,3 +276,7 @@ Confirma se os pacotes escolhidos foram instalados ou não.
 ```bash
 show_progress_dialog check-packages "<label>" pacote1 pacote2
 ```
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andistro.wiki.pt-br.devtools"  />
+</div>

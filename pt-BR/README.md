@@ -147,3 +147,7 @@ Opções:
 
 >[!NOTE]
 > Caso digite o comando `andistro` sem nenhum acréscimo e tecle enter (↵), aparecerá o menu de escolha.
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andistro.wiki.pt-br"  />
+</div>

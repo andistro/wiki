@@ -145,3 +145,7 @@ Options:
 
 >[!NOTE]
 > If you type the command `andistro` without any addition and press enter (↵), the selection menu will appear.
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andistro.wiki.en-us"  />
+</div>

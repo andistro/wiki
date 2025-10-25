@@ -242,3 +242,7 @@ echo 'deb http://deb.debian.org/debian <codinome> main contrib non-free non-free
 deb http://security.debian.org/debian-security <codinome>-security main contrib non-free
 deb http://deb.debian.org/debian <codinome>-updates main contrib non-free' >> /etc/apt/sources.list
 ```
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andistro.wiki.resolucao-de-problemas"  />
+</div>

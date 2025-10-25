@@ -282,3 +282,7 @@ Confirms whether the selected packages were installed or not.
 ```bash
 show_progress_dialog check-packages "<label>" package1 package2
 ```
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andistro.wiki.en-us.devtools"  />
+</div>
