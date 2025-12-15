@@ -22,7 +22,7 @@
   
   |<img height="24" src="./assets/flags/brasil.svg" />|[Guia de instalação e resolução de problemas](./pt-BR/README.md)|
   |-|-|
-  |<img height="24" src="./assets/flags/united_states.svg" />|[**Installation and troubleshooting guide**](./en-US/README.md)|
+  <!--|<img height="24" src="./assets/flags/united_states.svg" />|[**Installation and troubleshooting guide**](./en-US/README.md)|-->
   
 </div>
 

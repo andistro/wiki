@@ -3,8 +3,14 @@
 <img src="./../assets/flags/brasil.svg" width="32px"> ![ForYou](https://img.shields.io/badge/-Criado_com_❤️-gray)
 ![Android](https://img.shields.io/badge/Android-gray?logo=android)
 ![Termux](https://img.shields.io/badge/Termux-gray?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCI+CgogICAgPCEtLSBTY3JlZW4gYW5kIGJvcmRlci4gLS0+CiAgICA8cGF0aCBmaWxsPSIjMDAwIgogICAgICAgICAgc3Ryb2tlPSIjQkZDQkNEIgogICAgICAgICAgc3Ryb2tlLXdpZHRoPSIyIgogICAgICAgICAgZD0iTTksNgogICAgICAgICAgICAgbDMwLDAKICAgICAgICAgICAgIHEzIDAsMyAzCiAgICAgICAgICAgICBsMCwzMAogICAgICAgICAgICAgcTAgMywgLTMgMwogICAgICAgICAgICAgbC0zMCwwCiAgICAgICAgICAgICBxLTMgMCwgLTMtMwogICAgICAgICAgICAgbDAgLTMwCiAgICAgICAgICAgICBxMCAtMywgMyAtMyIKICAgIC8+CgogICAgPCEtLSBCbG9jayBjdXJzb3IuIC0tPgogICAgPHBhdGggZmlsbD0iI0ZGRiIKICAgICAgICAgIGQ9Ik0xNCwxNAogICAgICAgICAgICAgbDUsMAogICAgICAgICAgICAgbDAsMTAKICAgICAgICAgICAgIGwtNSwwIgogICAgLz4KCjwvc3ZnPgo=)
-[![en-US](https://img.shields.io/badge/[en--US]_Installation_and_troubleshooting_guide_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](./../en-US/README.md)
-  
+<!--[![en-US](https://img.shields.io/badge/[en--US]_Installation_and_troubleshooting_guide_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](./../en-US/README.md)-->
+
+# **Instale distribuições Linux dentro do ambiente Android e sem root.**
+
+Este é um projeto que permite instalar distribuições Linux, como Ubuntu e Debian em dispositivos Android sem necessidade de root. O sistema é executado dentro do ambiente Termux e utiliza VNC para fornecer uma interface gráfica completa, sem modificar as configurações do Android.
+
+Para garantir a confiança e segurança, nenhum sistema é hospedado no repositório - todos são baixados diretamente dos sites oficiais das distribuições. O código do instalador está completamente aberto para verificação
+
 | **Comece selecionando alguma das opções abaixo.** |
 |--------------------|
 |[**Requisitos**](#Requisitos---)|
@@ -14,7 +20,7 @@
 |[**Iniciando a Instalação do sistema**](#iniciando-a-Instalação-do-sistema---)|
 |  **↳** [**Baixando o instalador**](#baixando-o-instalador---)|
 ||
-|[**Resolução de problemas**](/wiki/pt-BR/bugs.md)|
+|[**Resolução de problemas**](/wiki/pt-BR/resolucao-de-problemas.md)|
 ||
 |[**DevTools ‐ Padrões de interface de código**](/wiki/pt-BR/DevTools.md)|
 
@@ -31,16 +37,6 @@ h3
 h4
 |      **↳** [** **]()|
 -->
-
-# **Instale distribuições Linux dentro do ambiente Android e sem root.**
-
-Este é um projeto que permite instalar distribuições Linux, como Ubuntu e Debian em dispositivos Android sem necessidade de root. O sistema é executado dentro do ambiente Termux e utiliza VNC para fornecer uma interface gráfica completa, sem modificar as configurações do Android.
-
-Para garantir a confiança e segurança, nenhum sistema é hospedado no repositório - todos são baixados diretamente dos sites oficiais das distribuições. O código do instalador está completamente aberto para verificação
-
-
-> [!NOTE]
-> Esse script de instalação foi feito para dispositivos Android com a arquitetura ARM64
 
 > [!IMPORTANT]
 > Todo o sistema será execultado dentro do Termux e por não haver root, não irá modificar as configurações do Android. <br>
@@ -59,17 +55,17 @@ Para garantir a confiança e segurança, nenhum sistema é hospedado no reposit�
 |![Memória ram](https://img.shields.io/badge/-gray?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZTNlM2UzIj48cGF0aCBkPSJNMjQwLTM2MGg4MHYtMjQwaC04MHYyNDBabTIwMCAwaDgwdi0yNDBoLTgwdjI0MFptMjAwIDBoODB2LTI0MGgtODB2MjQwWm0tNDgwIDgwaDY0MHYtNDAwSDE2MHY0MDBabTAgMHYtNDAwIDQwMFptNDAgMTYwdi04MGgtNDBxLTMzIDAtNTYuNS0yMy41VDgwLTI4MHYtNDAwcTAtMzMgMjMuNS01Ni41VDE2MC03NjBoNDB2LTgwaDgwdjgwaDE2MHYtODBoODB2ODBoMTYwdi04MGg4MHY4MGg0MHEzMyAwIDU2LjUgMjMuNVQ4ODAtNjgwdjQwMHEwIDMzLTIzLjUgNTYuNVQ4MDAtMjAwaC00MHY4MGgtODB2LTgwSDUyMHY4MGgtODB2LTgwSDI4MHY4MGgtODBaIi8+PC9zdmc+)|Memória RAM|![](https://img.shields.io/badge/Acima_de_6GB-orange)|
 |![Versão do Android](https://img.shields.io/badge/-gray?logo=android&logoColor=white)|Android|![Android 10+](https://img.shields.io/badge/Android_10+-073042)|
 |![Root](https://img.shields.io/badge/-gray?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZTNlM2UzIj48cGF0aCBkPSJtMjQwLTE2MCA0MC0xNjBIMTIwbDIwLTgwaDE2MGw0MC0xNjBIMTgwbDIwLTgwaDE2MGw0MC0xNjBoODBsLTQwIDE2MGgxNjBsNDAtMTYwaDgwbC00MCAxNjBoMTYwbC0yMCA4MEg2NjBsLTQwIDE2MGgxNjBsLTIwIDgwSDYwMGwtNDAgMTYwaC04MGw0MC0xNjBIMzYwbC00MCAxNjBoLTgwWm0xNDAtMjQwaDE2MGw0MC0xNjBINDIwbC00MCAxNjBaIi8+PC9zdmc+)|Root|![Não é necessário](https://img.shields.io/badge/Não_é_necessário-red)|
-|![ADB](https://img.shields.io/badge/-gray?logo=android&logoColor=white)|ADB|![Pode ser necessário](https://img.shields.io/badge/Necessário_no_Android_12,_13_e_14-073042)|
+|![ADB](https://img.shields.io/badge/-gray?logo=android&logoColor=white)|ADB|![Pode ser necessário](https://img.shields.io/badge/Necessário_a_partir_do_Android_12-073042)|
 
 
 
 |||Suportado|Com falhas|Em teste|
 |-|-|-|-|-|
 ||Sistemas| ![Debian](https://img.shields.io/badge/Debian-13-red?logo=debian&logoColor=white) <br>![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?logo=ubuntu&logoColor=white)|
-||Interface gráfica| ![XFCE](https://img.shields.io/badge/XFCE-2284F2?logo=xfce&logoColor=white)|
+||Interface gráfica| ![XFCE](https://img.shields.io/badge/XFCE-2284F2?logo=xfce&logoColor=white)  ![LXDE](https://img.shields.io/badge/LXDE-0068C8?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNSAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE4LjczMzMgOS4yNTkwNEMxNy4yMDA5IDcuNTQ5NTIgMTUuODIgNi40NDUzNiAxMy43NzU4IDkuMzI0MjdDMTIuNTU5NCAxMS4wMzc0IDUuMjU5NjYgMjAuODUwOSAzLjkyMDE5IDIyLjQxNDFDMy41MzExMSAyMi44NjgyIDMuMzAzMTggMjMuMTgzNyAzLjAwNDQ0IDIzLjM2NjdDMy4wMDQ4OSAyMi43NDUzIDguMDQ2NzkgMTQuODU1MiA5LjQ1Nzc4IDEyLjU2ODZDMTEuMTUyNiA5LjgyMjA3IDExLjA5ODggOS45ODI0NiAxMC44OTYgOS45ODMxOUMxMC42MDg5IDkuOTg0MTcgMTAuMDI0OSAxMC40MDI4IDkuMTM2ODcgMTEuMzM4NkM3LjUxNTMxIDEzLjA0NzYgMi43MTI4IDE5LjQwODIgMi4zODE3MSAxOS4zMTAxQzIuNDk2NzMgMTguODQ4IDYuMjUzNTUgMTMuMTU1MSA3Ljk1OTMgMTAuODAwMUM5LjQyOTc0IDguNzY5OTggOC44Njc2NiA4LjYxNTI0IDguMDI0ODUgOC44MTM0M0M0LjQzMzggOS42NTk3NyAwLjEzODg5OSAxMS43MDU5IDAgMTEuNjMyMUMwLjA1MTkzOSAxMS41MjYxIDE0LjQ2NDcgMS41MTA4IDE2LjM5IDEuMzE5MzRDMTYuNjE0MiAxLjI5NzA1IDE3LjA4NzEgMC45MDIwMTkgMTcuOTI5OCAwLjU3Mjk5NkMxOC44NDQ3IDAuMjE1ODE0IDE5LjQ2MDQgLTAuMDc0NzExNyAxOS42MTI3IDAuMDE3MTQwM0MxOC45NDUgMC45NDE5NzQgMTguNTkzNSAxLjEyODA5IDE4LjU4NzYgMS40MjY0MkMxOC41Nzc5IDEuOTE0OTEgMTguNDAxOSAyLjcwNTE4IDE4LjIwOTIgMi45NTc1MUMyMS45MzM3IDUuNDA5MzMgMjMuMzg2OCAxMy43NjkyIDI0LjQ1MDggMjAuNDkzM0MyNC43MDQ3IDIyLjA4OTMgMjQuOTQgMjMuMjg3OCAyNSAyNEMyNC42ODU2IDIzLjIwMDcgMjEuNzA3NyAxMi41NzczIDE4LjczMzMgOS4yNTkwNFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)|
 
 > [!CAUTION]
-> Usar o sistema em um dispositivo mais fraco pode causar sobrecarga e danificar componentes internos devido a alta demanta de processamento.
+> Pode ser que o sistema nem inicie em um dispositivo mais fraco, além de poder causar sobrecarga e danificar componentes internos devido a alta demanta de processamento.
 
 # Instalações necessárias [[ ↑ ]](#)
 
@@ -89,65 +85,16 @@ Para que tudo funcione corretamente, é necessário a instalação do **Termux**
 
 ## Baixando o instalador [[ ↑ ]](#)
 
-A primeira etapa mais importante será a de instalar os aplicativos para o funcionamento do instalador. [Está listado aqui](https://github.com/andistro/app/wiki/Instala%C3%A7%C3%B5es-necess%C3%A1rias).
-
-Após o Termux ter sido instalado no aparelho e iniciado, agora será a vez de baixar o arquivo que irá fazer o sistema funcionar no celular. Siga os passos abaixo:
-
-1. Digite ou copie e cole o código abaixo no [Termux](intent://#Intent;package=com.termux;scheme=termux;end) e após, tecle enter (↵) para baixar o arquivo:
-```bash
-curl -O https://raw.githubusercontent.com/andistro/app/main/andistro
-```
-
-2. Digite ou copie e cole o código abaixo no Termux para que o arquivo tenha permissão para funcionar:
-```bash
-chmod +x andistro
-```
-3. Digite ou copie e cole o código abaixo no Termux para que o arquivo seja iniciado:
-```bash
-bash andistro -u
-```
-> [!NOTE]
-> O comando `-u` força a atualização e a configuração da ferramenta. Caso não use,a ferramenta poderá apresentar problemas de execução.
-
-
-> [!NOTE]
-> Pode usar esse comando direto, caso não queira executar um comando por vez
-> ```bash
-> curl -O https://raw.githubusercontent.com/andistro/app/main/andistro && chmod +x andistro && echo -e "\n\nAguarde um instante" && bash andistro -u
-> ```
-
-4. O arquivo irá finalizar as configurações necessárias e mostrará uma explicação de como instalar, desinstalar e iniciar os sistemas.
-
-> [!NOTE]
-> O arquivo detecta o idioma do sistema e irá iniciar em algum dos idiomas disponíveis a depender do seu sistema.
-
-```bash
-Use: andistro <comando> <opção> para seja feito a tarefa desejada.
-
-Exemplo de comando que permite a instalação:
-
-    andistro -i debian
-
-Exemplo de comando que permite a desinstalação:
-   andistro -d debian
-
-Exemplo de comando que permite a inicialização:
-   andistro -s debian
-
-Comandos:
-    -u    - atualiza todos os pacotes.
-    -i    - instala a opção escolhida.
-    -d    - desinstala a opção escolhida.
-    -s    - inicializa a versão escolhida.
-
-Opções:
-    debian
-    ubuntu
-```
-
+1. Baixe o Termux e instale no dispositivo;
+2. Baixe o AVNC e instale no dispositivo;
 >[!NOTE]
-> Caso digite o comando `andistro` sem nenhum acréscimo e tecle enter (↵), aparecerá o menu de escolha.
+> Você pode usar outro aplicativo de VNC que não seja o AVNC. Esta é somente uma recomendação por ser o aplicativo escolhido para ser usado durante o desenvolvimento
+3. Acesse a página de lançamentos para copiar o link de instalação.
+>[!INFO]
+> Os lançamentos com a informação `pre-release` são as versões de testes, já a versão `latest` é a estável.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=andistro.wiki.pt-br"  />
-</div>
+- [Clique aqui para acessar a ultima versão estável](https://github.com/andistro/app/releases/latest)
+- [Clique aqui para todos os lançamentos, incluindo as versões de teste](https://github.com/andistro/app/releases)
+
+4. Após copiar o comando, abra o Termux, pressione a tela e clique em `paste` para colar o comando e após isso, tecle `enter ↲` para iniciar a instalação e configuração do AnDistro. Durante o processo, aparecerá uma barra de progresso e após isso, algumas mensagens interativas para finalizar as configurações. A partir daqui, toda a interface será intuitiva e gráfica para facilitar a instalação e caso o queira ter uma visibilidade próxima ao do terminal, usar o comando `andistro terminal` para ter um mini guia de comandos no formato de terminal.
+5. No modo padrão do AnDistro, todo o uso é por meio de interface gráfica simples, clica nas opções e depois em `OK`. Quando clicar e a opção ficar em azul, estará selecionado.
