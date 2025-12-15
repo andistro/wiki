@@ -90,7 +90,8 @@ Para que tudo funcione corretamente, é necessário a instalação do **Termux**
 >[!NOTE]
 > Você pode usar outro aplicativo de VNC que não seja o AVNC. Esta é somente uma recomendação por ser o aplicativo escolhido para ser usado durante o desenvolvimento
 3. Acesse a página de lançamentos para copiar o link de instalação.
->[!INFO]
+
+>[!NOTE]
 > Os lançamentos com a informação `pre-release` são as versões de testes, já a versão `latest` é a estável.
 
 - [Clique aqui para acessar a ultima versão estável](https://github.com/andistro/app/releases/latest)
@@ -98,3 +99,4 @@ Para que tudo funcione corretamente, é necessário a instalação do **Termux**
 
 4. Após copiar o comando, abra o Termux, pressione a tela e clique em `paste` para colar o comando e após isso, tecle `enter ↲` para iniciar a instalação e configuração do AnDistro. Durante o processo, aparecerá uma barra de progresso e após isso, algumas mensagens interativas para finalizar as configurações. A partir daqui, toda a interface será intuitiva e gráfica para facilitar a instalação e caso o queira ter uma visibilidade próxima ao do terminal, usar o comando `andistro terminal` para ter um mini guia de comandos no formato de terminal.
 5. No modo padrão do AnDistro, todo o uso é por meio de interface gráfica simples, clica nas opções e depois em `OK`. Quando clicar e a opção ficar em azul, estará selecionado.
+
