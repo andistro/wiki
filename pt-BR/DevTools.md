@@ -142,7 +142,7 @@ echo    # quebra de linha ao final para não sobrepor prompt
 ### Usando o `global` [[ ↑ ]](#)
 
 ```bash
-source global
+source global # substitua pelo caminho onde o arquivo estará
 
 total_steps=5  # Número total de etapas que você quer monitorar
 current_step=0
