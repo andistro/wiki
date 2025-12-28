@@ -22,7 +22,6 @@
   
   |<img height="24" src="./assets/flags/brasil.svg" />|[Guia de instalação e resolução de problemas](./pt-BR/README.md)|
   |-|-|
-  
 </div>
 
 <br>
